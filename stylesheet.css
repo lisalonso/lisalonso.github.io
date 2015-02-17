@@ -24,9 +24,9 @@ header {
 }
 
 #container {
-  padding-top:620;
+  padding-top:620px;
   padding-left:5px;
   padding-right:30px;
   padding-bottom:40px;
-  border:1px solid black;
+  background:#009999;
 }
