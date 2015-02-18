@@ -33,12 +33,9 @@ header {
   top:400px;
   height:650px;
 }
-.square {
+.about {
     height:100%;
-    width:75%;
-    padding-left:25%;
-    padding-right:100%
-    text-align:center;
+    width:100%;
     background:#FEC4B5;
 }
 
