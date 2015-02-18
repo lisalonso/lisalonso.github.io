@@ -11,8 +11,7 @@ header {
   height:135px;
   position:fixed;
   top:0px;
-  background:#091943;
-  background-image:50%;
+  background:#212C31;
   margin:0 auto;
 
 
@@ -27,7 +26,7 @@ header {
 #container {
   padding-top:650px;
   height:20%;
-  background:#5673BE;
+  background:#F0F0F0;
  }
 
 .square {
@@ -36,19 +35,17 @@ header {
     padding-left:25%;
     padding-right:100%
     text-align:center;
-    background:#A3DC24;
+    background:#FEC4B5;
 }
 
 .Skills {
-    padding-top:10%
-    padding-left:15%;
-    background:#849362;
+    background:#EC665B;
     width:100%;
     height:180%
 }
 
 .contact {
-    background:#DA9979;
+    background:#788F92;
     width:100%;
     height:90%;
 }
@@ -56,7 +53,7 @@ header {
 p {
     font-family:Open Sans, sans-serif;
     font-size:30px;
-    color:#685206;
+    color:#212C31;
     font-weight:300;
     line-height:32px;
     margin: 0 0 72px;
