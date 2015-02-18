@@ -1,7 +1,7 @@
 a {
     text-decoration:none;
     font-family:Helvetica Neue, sans-serif;
-    font-size:40px;
+    font-size:35px;
     color:#ffffff;
 
 }
@@ -84,10 +84,32 @@ ol {
 
 h2 {
     font-family:Helvetica Neue, sans-serif;
-    font-size:150px;
+    font-size:120px;
     color:#111;
     font-weight:bold;
     letter-spacing:-1px;
     line-height:1;
     text-align:center;
+}
+
+#español {
+  background:#212C31;
+  height:100%;
+  wieght:100%;
+}
+
+#english {
+  background:#EC665B;
+  height:100%;
+  weight:100%;
+}
+
+h1 {
+  font-family:Helvetica Neue, sans-serif;
+  font-size:80px;
+  color:#111;
+  font-weight:bold;
+  letter-spacing:-1px;
+  line-height:1;
+  text-align:center;
 }
