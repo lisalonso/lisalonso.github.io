@@ -1,11 +1,24 @@
-a {
-    text-decoration:none;
-    font-family:Helvetica Neue, sans-serif;
-    font-size:35px;
-    color:#ffffff;
-    text-shadow:-5px 5px 5px rgba(0,0,0,0.3);
-    margin-right:1em;
+#español {
+  background:#212C31;
+  height:100%;
+  wieght:100%;
+}
 
+#english {
+  background:#EC665B;
+  height:100%;
+  weight:100%;
+}
+
+h1 {
+  font-family:Helvetica Neue, sans-serif;
+  font-size:80px;
+  color:#ffffff;
+  font-weight:bold;
+  letter-spacing:-1px;
+  line-height:1;
+  text-align:center;
+  text-shadow:-5px 5px 5px rgba(0,0,0,0.3);
 }
 
 a:hover {
