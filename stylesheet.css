@@ -144,5 +144,7 @@ h2 {
 #eb {
   height:288px;
   width:500px;
-  padding-right:100px;
+  padding-right:50px;
+  padding-left:50px;
+  padding-bottom:100px;
 }
