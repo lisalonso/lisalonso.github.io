@@ -113,3 +113,8 @@ h1 {
   line-height:1;
   text-align:center;
 }
+
+#photo1 {
+  padding-right:50px;
+  padding-bottom:50px;
+}
