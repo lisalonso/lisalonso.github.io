@@ -63,7 +63,7 @@ header {
   position:fixed;
   top:0px;
   background:#212C31;
-  background-image: src="librocage.jpg"
+  background-image: src=librocage.jpg;
 }
 
 #container {
